@@ -1,3 +1,0 @@
-/home/wt/Documents/study/slam_exercise/cmake_learn/ch01/cmake-build-debug/CMakeFiles/helloword.dir
-/home/wt/Documents/study/slam_exercise/cmake_learn/ch01/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/wt/Documents/study/slam_exercise/cmake_learn/ch01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
